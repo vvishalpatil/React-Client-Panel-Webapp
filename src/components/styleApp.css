@@ -1,0 +1,43 @@
+nav{
+	background-image:linear-gradient(to right,#A364BD,#28496F)  ;
+}
+#MainHeader{
+	color: #CCF25F  ;
+	font-family: 'Josefin Sans', sans-serif;
+}
+#clientHeader
+{
+	color: #5BF8CF;
+}
+
+thead{
+	background-color: #4D5656;
+	color:#FFEA81;
+	font-size: 20px;
+	font-family: 'Raleway', sans-serif;
+	font-weight: 800px;
+}
+
+
+tbody{
+	background-color: #616A6B;
+	color:#95D6F4;
+	font-family: 'Raleway', sans-serif;
+	font-size: 15px;
+}
+#moneyOwed{
+	font-family: 'Raleway', sans-serif;
+}
+
+
+.font2{
+	
+	font-family: 'Raleway', sans-serif;
+	
+}
+#Form-addClient{
+	height: 800px;
+	width: 900px;
+	float: center;
+
+}
