@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-use username : vishal@gmail.com
-and password : 1234567
+use username : test1@test1.com  
+and password : test1test1
 these credentials are for testing purpose
 
 ## Available Scripts
